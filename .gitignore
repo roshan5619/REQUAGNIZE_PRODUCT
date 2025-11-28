@@ -1,28 +1,28 @@
 # Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
+# __pycache__/
+# *.py[cod]
+# *$py.class
+# *.so
+# .Python
 # venv/
 # env/
 # ENV/
 # .venv
 
 # IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
+# *~
 
 # Environment variables
 .env
 .env.local
 
 # Database
-*.db
-*.sqlite
+# *.db
+# *.sqlite
 
 # Logs
 # logs/
@@ -33,25 +33,25 @@ __pycache__/
 # !data/uploads/.gitkeep
 
 # Frontend
-frontend/node_modules/
-frontend/build/
-# frontend/.env.local
+# frontend/node_modules/
+# frontend/build/
+frontend/.env.local
 
 # OSgit 
-.DS_Store
-Thumbs.db
+# .DS_Store
+# Thumbs.db
 
 # Backups
-backups/
-*.sql.gz
-*.tar.gz
+# backups/
+# *.sql.gz
+# *.tar.gz
 
 # Testing
-.pytest_cache/
-.coverage
-htmlcov/
+# .pytest_cache/
+# .coverage
+# htmlcov/
 
-# Temporary files
-tmp/
-temp/
-*.tmp
+# # Temporary files
+# tmp/
+# temp/
+# *.tmp
