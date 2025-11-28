@@ -4,10 +4,10 @@ __pycache__/
 *$py.class
 *.so
 .Python
-venv/
-env/
-ENV/
-.venv
+# venv/
+# env/
+# ENV/
+# .venv
 
 # IDEs
 .vscode/
@@ -25,19 +25,19 @@ ENV/
 *.sqlite
 
 # Logs
-logs/
-*.log
+# logs/
+# *.log
 
 # Data files
-data/uploads/*
-!data/uploads/.gitkeep
+# data/uploads/*
+# !data/uploads/.gitkeep
 
 # Frontend
 frontend/node_modules/
 frontend/build/
-frontend/.env.local
+# frontend/.env.local
 
-# OS
+# OSgit 
 .DS_Store
 Thumbs.db
 
